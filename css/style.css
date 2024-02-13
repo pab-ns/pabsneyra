@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap');
+
+::selection{background: red; color:white}
+
+.vertical-center{margin-top: 5%;}
+
+  body{
+    background-color: white;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .content{max-width: 750px; line-height: 1.7;}
+
+  a{color: lightslategray;}
+
+  .select{color: black}
+
+  a:hover{text-decoration: none; color:red}
+
+  .anchor {padding-top: 40px; margin-top: -40px;}
+  
+  .card {
+  border: none;
+}
